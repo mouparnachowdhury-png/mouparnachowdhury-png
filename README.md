@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Turning+ideas+into+practical+apps;Learning+Full-Stack+%2B+AI%2FML+every+day;Building+consistently%2C+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=620&lines=Turning+ideas+into+practical+apps;Learning+Full-Stack+%2B+AI%2FML+every+day;Building+consistently%2C+one+project+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:mouparnachowdhury@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <!-- NOTE: You gave two different LinkedIn URLs. This uses the one from your message.
-       Your GitHub currently links to /in/mouparna-chowdhury007 instead — pick one and keep it consistent. -->
+       Your GitHub profile currently links /in/mouparna-chowdhury007 instead — pick one and keep it consistent. -->
   <a href="https://www.linkedin.com/in/mouparna-chowdhury-4016a33b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/mouparnachowdhury-png"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=mouparnachowdhury-png&style=for-the-badge&color=6366f1" alt="Profile views"/>
@@ -26,6 +26,7 @@ I'm a **Computer Science (AI & ML)** student who likes solving real-world proble
 
 - 🌱 Currently strengthening **Full-Stack Web Development, AI/ML, Data Science, and Flutter**
 - 💻 Building small, practical projects to sharpen my problem-solving
+- 🧩 Recently shipped my first multi-page app, **Calm Corner**
 - 🤝 Looking to collaborate on hackathons and open-source
 - 🎯 Status: **Focusing** — building consistently, learning every day
 
@@ -59,6 +60,14 @@ I'm a **Computer Science (AI & ML)** student who likes solving real-world proble
 
 ## 📌 Featured Projects
 
+### 🌿 Calm Corner
+A gentle, multi-page web app for a quick daily check-in: pick a mood, add an optional note, look back at past days, and follow a one-minute breathing circle. My first project with more than one page and shared data across them.
+
+`HTML` · `CSS` · `JavaScript` · `localStorage`
+&nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Calm-Corner)
+<!-- Once you enable GitHub Pages, add your live link here, e.g.
+     → [Live Demo](https://mouparnachowdhury-png.github.io/Calm-Corner/) -->
+
 ### 📊 Expense Tracker
 A personal finance web app that tracks spending and shows a breakdown by category, so users can understand their habits at a glance.
 
@@ -66,7 +75,7 @@ A personal finance web app that tracks spending and shows a breakdown by categor
 &nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Expense-Tracker)
 
 ### 🔥 Learning Streak Tracker
-A productivity web app that logs what you learn each day and keeps a running daily streak — built to reinforce the habit of consistent learning.
+A productivity web app that logs what you learn each day and keeps a running daily streak, built to reinforce the habit of consistent learning.
 
 `HTML` · `CSS` · `JavaScript`
 &nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Learning-Streak-Tracker)
