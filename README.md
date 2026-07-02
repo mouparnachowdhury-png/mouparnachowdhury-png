@@ -14,8 +14,8 @@
   <!-- NOTE: You gave two different LinkedIn URLs. This uses the one from your message.
        Your GitHub profile currently links /in/mouparna-chowdhury007 instead — pick one and keep it consistent. -->
   <a href="https://www.linkedin.com/in/mouparna-chowdhury-4016a33b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mouparnachowdhury-png"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mouparnachowdhury-png&style=for-the-badge&color=6366f1" alt="Profile views"/>
+  <a href="https://github.com/mouparnachowdhury"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mouparnachowdhury&style=for-the-badge&color=6366f1" alt="Profile views"/>
 </p>
 
 ---
@@ -64,33 +64,33 @@ I'm a **Computer Science (AI & ML)** student who likes solving real-world proble
 A gentle, multi-page web app for a quick daily check-in: pick a mood, add an optional note, look back at past days, and follow a one-minute breathing circle. My first project with more than one page and shared data across them.
 
 `HTML` · `CSS` · `JavaScript` · `localStorage`
-&nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Calm-Corner)
+&nbsp;→ [View Repository](https://github.com/mouparnachowdhury/Calm-Corner)
 <!-- Once you enable GitHub Pages, add your live link here, e.g.
-     → [Live Demo](https://mouparnachowdhury-png.github.io/Calm-Corner/) -->
+     → [Live Demo](https://mouparnachowdhury.github.io/Calm-Corner/) -->
 
 ### 📊 Expense Tracker
 A personal finance web app that tracks spending and shows a breakdown by category, so users can understand their habits at a glance.
 
 `HTML` · `CSS` · `JavaScript`
-&nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Expense-Tracker)
+&nbsp;→ [View Repository](https://github.com/mouparnachowdhury/Expense-Tracker)
 
 ### 🔥 Learning Streak Tracker
 A productivity web app that logs what you learn each day and keeps a running daily streak, built to reinforce the habit of consistent learning.
 
 `HTML` · `CSS` · `JavaScript`
-&nbsp;→ [View Repository](https://github.com/mouparnachowdhury-png/Learning-Streak-Tracker)
+&nbsp;→ [View Repository](https://github.com/mouparnachowdhury/Learning-Streak-Tracker)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mouparnachowdhury-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouparnachowdhury-png&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mouparnachowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouparnachowdhury&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouparnachowdhury-png&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouparnachowdhury&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
